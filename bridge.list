@@ -1,0 +1,113 @@
+DE-Detour 01=vmess, de-detour-01.wallthefool.org, 15801, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+DE-Detour 02=vmess, de-detour-02.wallthefool.org, 15802, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+DE-Detour-03=vmess, de-detour-03.wallthefool.org, 15803, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+HKT-Detour 01=vmess, hkt-detour-01.wallthefool.org, 15101, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+HKT-Detour 02=vmess, hkt-detour-02.wallthefool.org, 15102, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+HKT-Detour 03=vmess, hkt-detour-03.wallthefool.org, 15103, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+HKT-Detour 04=vmess, hkt-detour-04.wallthefool.org, 15104, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+HKT-Detour 05=vmess, hkt-detour-05.wallthefool.org, 15105, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+HKT-Detour 06=vmess, hkt-detour-06.wallthefool.org, 15106, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+HKT-Detour 07=vmess, hkt-detour-07.wallthefool.org, 15107, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+HKT-Detour 08=vmess, hkt-detour-08.wallthefool.org, 15108, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+HKT-Detour 09=vmess, hkt-detour-09.wallthefool.org, 15109, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+HKT-Detour 10=vmess, hkt-detour-10.wallthefool.org, 15110, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+HKT-Detour 11=vmess, hkt-detour-11.wallthefool.org, 15111, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+HKT-Detour 12=vmess, hkt-detour-12.wallthefool.org, 15112, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+HKT-Detour 13=vmess, hkt-detour-13.wallthefool.org, 15113, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+HKT-Detour 14=vmess, hkt-detour-14.wallthefool.org, 15114, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+HKT-Detour 15=vmess, hkt-detour-15.wallthefool.org, 15115, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+HKT-Detour 16=vmess, hkt-detour-16.wallthefool.org, 15116, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+HKT-Detour 17=vmess, hkt-detour-17.wallthefool.org, 15117, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+HKT-Detour 18=vmess, hkt-detour-18.wallthefool.org, 15118, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+HKT-Detour 19=vmess, hkt-detour-19.wallthefool.org, 15119, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+HKT-Detour 20=vmess, hkt-detour-20.wallthefool.org, 15120, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+HKT-Detour 21=vmess, hkt-detour-21.wallthefool.org, 15131, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+HKT-Detour 22=vmess, hkt-detour-22.wallthefool.org, 15132, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+HKT-Detour 23=vmess, hkt-detour-23.wallthefool.org, 15133, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+HKT-Detour 24=vmess, hkt-detour-24.wallthefool.org, 15134, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+IEPL SZ-HK 01=vmess, sz-hk-01.wallthefool.org, 15121, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+IEPL SZ-HK 02=vmess, sz-hk-02.wallthefool.org, 15122, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+IEPL SZ-HK 03=vmess, sz-hk-03.wallthefool.org, 15123, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+IEPL SZ-HK 04=vmess, sz-hk-04.wallthefool.org, 15124, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+IEPL SZ-HK 05=vmess, sz-hk-05.wallthefool.org, 15125, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+IEPL SZ-HK 06=vmess, sz-hk-06.wallthefool.org, 15126, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+IEPL SZ-HK 07=vmess, sz-hk-07.wallthefool.org, 15127, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+IEPL SZ-HK 08=vmess, sz-hk-08.wallthefool.org, 15128, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+IEPL SZ-HK 09=vmess, sz-hk-09.wallthefool.org, 15129, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+IEPL SZ-HK 10=vmess, sz-hk-10.wallthefool.org, 15130, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+IEPL SZ-HK 11=vmess, sz-hk-11.wallthefool.org, 15151, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+IEPL SZ-HK 12=vmess, sz-hk-12.wallthefool.org, 15152, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+IEPL SZ-JP 01=vmess, sz-jp-01.wallthefool.org, 15611, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+IEPL SZ-JP 02=vmess, sz-jp-02.wallthefool.org, 15612, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+IEPL SZ-SG 01=vmess, sz-sg-01.wallthefool.org, 15701, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+IEPL SZ-SG 02=vmess, sz-sg-02.wallthefool.org, 15702, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+IEPL SZ-SG 03=vmess, sz-sg-03.wallthefool.org, 15703, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+IEPL SZ-SG 04=vmess, sz-sg-04.wallthefool.org, 15704, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+IEPL SZ-SG 05=vmess, sz-sg-05.wallthefool.org, 15705, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+IEPL SZ-SG 06=vmess, sz-sg-06.wallthefool.org, 15706, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+IEPL SZ-SG 07=vmess, sz-sg-07.wallthefool.org, 15707, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+IEPL SZ-SG 08=vmess, sz-sg-08.wallthefool.org, 15708, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+IEPL SZ-US 01=vmess, sz-us-01.wallthefool.org, 15731, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+IEPL SZ-US 02=vmess, sz-us-02.wallthefool.org, 15732, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+IEPL SZ-US 03=vmess, sz-us-03.wallthefool.org, 15733, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+IEPL SZ-US 04=vmess, sz-us-04.wallthefool.org, 15734, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+IEPL SZ-US 05=vmess, sz-us-05.wallthefool.org, 15735, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+IEPL SZ-US 06=vmess, sz-us-06.wallthefool.org, 15736, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+IEPL SZ-US 07=vmess, sz-us-07.wallthefool.org, 15737, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+IEPL SZ-US 08=vmess, sz-us-08.wallthefool.org, 15738, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+JP-Detour 01=vmess, jp-01.wallthefool.org, 15601, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+JP-Detour 02=vmess, jp-02.wallthefool.org, 15602, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+JP-Detour 03=vmess, jp-03.wallthefool.org, 15603, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+JP-Detour 04=vmess, jp-04.wallthefool.org, 15604, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+JP-Detour 05=vmess, jp-05.wallthefool.org, 15605, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+JP-Detour 06=vmess, jp-06.wallthefool.org, 15606, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+LA-01=vmess, la1.wallthefool.org, 16003, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+LA-02=vmess, la2.wallthefool.org, 16003, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+LA-03=vmess, la3.wallthefool.org, 16003, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+LA-04=vmess, la4.wallthefool.org, 16003, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+LA-05=vmess, la5.wallthefool.org, 16003, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+LA-06=vmess, la6.wallthefool.org, 16003, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+LA-07=vmess, la7.wallthefool.org, 16003, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+LA-08=vmess, la8.wallthefool.org, 16003, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+LA-09=vmess, la9.wallthefool.org, 16003, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+LA-10=vmess, la10.wallthefool.org, 16003, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+LA-11=vmess, la11.wallthefool.org, 16003, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+LA-12=vmess, la12.wallthefool.org, 16003, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+LA-13=vmess, la13.wallthefool.org, 16003, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+LA-14=vmess, la14.wallthefool.org, 16003, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+LA-15=vmess, la15.wallthefool.org, 16003, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+LA-16=vmess, la16.wallthefool.org, 16003, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+LA-Detour 01=vmess, la-detour-01.wallthefool.org, 15501, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+LA-Detour 02=vmess, la-detour-02.wallthefool.org, 15502, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+LA-Detour 03=vmess, la-detour-03.wallthefool.org, 15503, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+LA-Detour 04=vmess, la-detour-04.wallthefool.org, 15504, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+LA-Detour 05=vmess, la-detour-05.wallthefool.org, 15505, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+LA-Detour 06=vmess, la-detour-06.wallthefool.org, 15506, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+LA-Detour 07=vmess, la-detour-07.wallthefool.org, 15507, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+LA-Detour 08=vmess, la-detour-08.wallthefool.org, 15508, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+Oz-Detour 01=vmess, oz-detour-01.wallthefool.org, 15811, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+SG-Detour 01=vmess, sg-detour-01.wallthefool.org, 15301, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+SG-Detour 02=vmess, sg-detour-02.wallthefool.org, 15302, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+SG-Detour 03=vmess, sg-detour-03.wallthefool.org, 15303, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+TW-Detour 01=vmess, tw-detour-01.wallthefool.org, 15201, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+TW-Detour 02=vmess, tw-detour-02.wallthefool.org, 15202, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+TW-Detour 03=vmess, tw-detour-03.wallthefool.org, 15203, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+TW-Detour 04=vmess, tw-detour-04.wallthefool.org, 15204, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+TW-Detour 05=vmess, tw-detour-05.wallthefool.org, 15205, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+TW-Detour 06=vmess, tw-detour-06.wallthefool.org, 15206, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+TW-Detour 07=vmess, tw-detour-07.wallthefool.org, 15207, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+TW-Detour 08=vmess, tw-detour-08.wallthefool.org, 15208, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+TW-Detour 09=vmess, tw-detour-09.wallthefool.org, 15209, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+TW-Detour 10=vmess, tw-detour-10.wallthefool.org, 15210, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+TW-Detour 11=vmess, tw-detour-11.wallthefool.org, 15211, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+TW-Detour 12=vmess, tw-detour-12.wallthefool.org, 15212, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+TW-Detour 13=vmess, tw-detour-13.wallthefool.org, 15213, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+TW-Detour 14=vmess, tw-detour-14.wallthefool.org, 15214, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+TW-Detour 15=vmess, tw-detour-15.wallthefool.org, 15215, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+TW-Detour 16=vmess, tw-detour-16.wallthefool.org, 15216, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+TW-Detour 17=vmess, tw-detour-17.wallthefool.org, 15217, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+TW-Detour 18=vmess, tw-detour-18.wallthefool.org, 15218, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+UK-01=vmess, uk-detour-01.wallthefool.org, 15711, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+UK-02=vmess, uk-detour-02.wallthefool.org, 15712, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+UK-03=vmess, uk-detour-03.wallthefool.org, 15713, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
+UK-04=vmess, uk-detour-04.wallthefool.org, 15714, username=3e961ff6-5b6c-49d4-86c7-ebf443b60ddb, tls=false
